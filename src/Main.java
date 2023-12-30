@@ -6,7 +6,7 @@ public class Main {
         //error!
         //Bicycle.HandleBar handleBar = new Bicycle.HandleBar();
 
-        Bicycle bicycle = new Bicycle(1000);
+        Bicycle bicycle = new Bicycle(1000);//flf
 
         Bicycle.HandleBar handleBar = bicycle.new HandleBar();
         handleBar.setupCircled();
